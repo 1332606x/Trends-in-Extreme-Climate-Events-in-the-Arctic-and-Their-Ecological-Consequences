@@ -20,7 +20,7 @@ List of the supplementary materials provided:
 - File list 1 to 13 with explanation
 
 *Raw data files:*
-- evidence-map-scope - shapefile of the Arctic regions as established by Martin et al., 2020
+- evidence-map-scope - shapefile of the Arctic regions as established by Martin et al., 2022
 - ne_10m_ocean - shapefile of the Ocean used to filter out data points in the Ocean
 - ne_10m_coastline - shapefile of coastlines to add onto maps
 - All ERA5 data used is available online at https://cds.climate.copernicus.eu/cdsapp#!/home
