@@ -14,7 +14,8 @@ List of the supplementary materials provided:
 - Meta_Analysis_Screening_Data.CSV - CSV file containing all the extracted data from the studies included in the meta-analysis
 - Meta_Analysis_Screening_Data.xlsx - Excel file containing all the different stages of the data extraction
 
-**Meta-Analysis**
+**Climate Analysis**
+
 *R code files:*
 - File list 1 to 13 with explanation
 
