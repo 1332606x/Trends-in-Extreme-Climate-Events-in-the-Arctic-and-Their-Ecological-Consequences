@@ -7,7 +7,7 @@ List of the supplementary materials provided:
 **Meta-Analysis**
 
 *R code files:*
-- calculate_effect_size.R - an R file containing the code used to convert effect sizes to SMDH and build all meta-analytical models
+- meta_analysis_full.R - an R file containing the code used to convert effect sizes to SMDH and build all meta-analytical models
 - meta_baselines_16_day.R - an R file used to calculate the 90th percentile for 'days' used to identify extreme years in study 16
 
 *Raw data files:*
